@@ -100,7 +100,7 @@ Currently, due to Corona all of our education is online. In the near future we h
 As mentioned before, our complete curriculum can be found on Github. Each modules is ordered sequentially. The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/html:css-table.png)
 
-After the first couple of weeks, Github will also be where you will publish your homework. GitHub can be challengin to use at first, but there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works and become a master at it. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github will become automatic. 
+After the first couple of weeks, Github will also be where you will publish your homework. GitHub can be challenging to use at first, but there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works and become a master at it. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github will become automatic. 
 
 Homework assignments will be part of the curriculum practically every week and it is expected that you finish it (and hand it in) on time. As you might have read in our culture page, you should think about HackYourFuture as a job and not a hobbie. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job. And that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module! 
 
@@ -140,7 +140,7 @@ At HackYourFuture the material is mostly self-study and our lectures are taught 
 
 Three other important reasons why we have integrated them in our curriculum are:  
 2. You have the time to go over all the concepts again and make sure you understand them well.
-3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is somehow at the same level.
+3. We can indicate who needs a bit more guidance throughout the curriculum and to make sure that the class is somehow at the same level.
 4. We can assure a certain level of understanding of the concepts in our curriculum to the companies we send your CVs to. 
 
 If we see one of the students does not do well in one of the modules we can pair them up with an experienced teacher for one-on-one support, offer you more time to catch up, etc. It all depends on the particular case at hand and why you are falling behind.
