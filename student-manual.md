@@ -140,7 +140,7 @@ At HackYourFuture the material is mostly self-study and our lectures are taught 
 
 Three other important reasons why we have integrated them in our curriculum are:  
 2. You have the time to go over all the concepts again and make sure you understand them well.
-3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is somehow at the same level.
+3. We can indicate who needs a bit more guidance throughout the curriculum and to make sure that the class is somehow at the same level.
 4. We can assure a certain level of understanding of the concepts in our curriculum to the companies we send your CVs to. 
 
 If we see one of the students does not do well in one of the modules we can pair them up with an experienced teacher for one-on-one support, offer you more time to catch up, etc. It all depends on the particular case at hand and why you are falling behind.
